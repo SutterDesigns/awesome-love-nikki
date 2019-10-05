@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SutterDesigns/awesome-love-nikki/">
-    <img alt="Awesome Love Nikki" src="nikki.png" width="700">
+    <img alt="Awesome Love Nikki" src="logo.png" width="700">
   </a>
 </p>
 
